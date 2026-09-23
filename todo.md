@@ -1,4 +1,4 @@
 Create a design for the application
 
 Experiment with designs
-set up local agent
+set up qwen 3.8
