@@ -1,5 +1,5 @@
-Create a design for the application
-Empty ide
-map out steps
-create a layout
-research backend
+- [] Create a design for the application
+- [x]  Empty ide
+- [x]  map out steps
+- []  create a layout
+- [] research backend
