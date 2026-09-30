@@ -9,6 +9,13 @@ export const unstable_settings = {
   anchor: '(tabs)',
 };
 
+export const testData ={
+  "id": 1,
+  "name": "John Doe",
+  "email": "john.doe@example.com"
+
+}
+
 export default function RootLayout() {
   const colorScheme = useColorScheme();
 
