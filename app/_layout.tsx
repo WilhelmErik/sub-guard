@@ -12,7 +12,13 @@ export const unstable_settings = {
 export const testData ={
   "id": 1,
   "name": "John Doe",
-  "email": "john.doe@example.com"
+  "email": "john.doe@example.com",
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "zip": "12345"  
+  }
 
 }
 
